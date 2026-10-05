@@ -1,0 +1,38 @@
+{
+  "doc_number": "IDOC-2026-04821",
+  "last_name": "SMITH",
+  "first_name": "JOHN",
+  "document_count": 3,
+  "documents": [
+    {
+      "iris_document_id": "IRIS-88-40213",
+      "document_type": "SF_8466",
+      "document_title": "Abstract of Judgment",
+      "packet_section": "ADMISSION",
+      "document_date": "2026-07-30",
+      "page_count": 3,
+      "access_class": "RESTRICTED",
+      "body": "State of Indiana, Marion Superior Court 4. Cause number 49G04-2603-F5-001122. Defendant John A. Smith, date of birth 14 March 1991. Convicted of burglary, a Level 5 felony under IC 35-43-2-1. Sentence: 1,825 days executed at the Department of Correction, with 365 days suspended to probation. Jail time credit: 139 days actual time served. Credit time to be calculated by the Department. Sentenced 27 August 2026. Committed to the custody of the Indiana Department of Correction."
+    },
+    {
+      "iris_document_id": "IRIS-88-40214",
+      "document_type": "SF_COMMIT_ORDER",
+      "document_title": "Court Commitment Order",
+      "packet_section": "ADMISSION",
+      "document_date": "2026-07-30",
+      "page_count": 2,
+      "access_class": "RESTRICTED",
+      "body": "Order committing the defendant to the Indiana Department of Correction. The Marion County Sheriff is directed to transport the defendant to the designated reception facility. No detainers or holds are recorded on this order. The defendant is to be delivered with all accompanying medical and property documentation."
+    },
+    {
+      "iris_document_id": "IRIS-88-40215",
+      "document_type": "SF_PSI",
+      "document_title": "Presentence Investigation Report",
+      "packet_section": "CLASSIFICATION",
+      "document_date": "2026-07-29",
+      "page_count": 22,
+      "access_class": "RESTRICTED",
+      "body": "Prior record: two misdemeanour convictions, 2012 and 2017. No prior commitments to the Department. Education: completed a general equivalency diploma in 2014 through an adult education programme. Employment: warehouse associate at a distribution centre until January 2026, described by the employer as reliable. Family: reports regular contact with his sister and mother; his sister is listed as his emergency contact. Co-defendant: Ryan Dunmore, cause 49G04-2603-F5-001188; the defendant reports ongoing conflict with the co-defendant and a separation is recommended. Housing on release: the defendant intends to return to his mother's address in Indianapolis."
+    }
+  ]
+}

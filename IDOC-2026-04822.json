@@ -1,0 +1,28 @@
+{
+  "doc_number": "IDOC-2026-04822",
+  "last_name": "DAVIS",
+  "first_name": "KAREN",
+  "document_count": 2,
+  "documents": [
+    {
+      "iris_document_id": "IRIS-88-40231",
+      "document_type": "SF_8466",
+      "document_title": "Abstract of Judgment",
+      "packet_section": "ADMISSION",
+      "document_date": "2026-08-02",
+      "page_count": 2,
+      "access_class": "RESTRICTED",
+      "body": "State of Indiana, Lake County Superior Court 3. Cause number 45G03-2602-FB-000987. Defendant Karen M. Davis, date of birth 22 July 1988. Sentence: 2,555 days executed at the Department of Correction. Jail time credit: 96 days actual time served. Sentenced 2 August 2026."
+    },
+    {
+      "iris_document_id": "IRIS-88-40232",
+      "document_type": "SF_TRANSPORT_PACKET",
+      "document_title": "Sheriff Transport Packet",
+      "packet_section": "ADMISSION",
+      "document_date": "2026-08-13",
+      "page_count": 4,
+      "access_class": "RESTRICTED",
+      "body": "Lake County Sheriff transport packet. Known aliases: K. Davis. Height 5 feet 4 inches, weight 141 pounds. Medical clearance on file from the county jail clinic, dated 2 August 2026. Property inventory: 4 items, receipt LC-PR-20118. Emergency contact: Marcus Davis, brother. No incident reports recorded during this booking."
+    }
+  ]
+}
