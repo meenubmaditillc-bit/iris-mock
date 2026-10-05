@@ -1,0 +1,48 @@
+{
+  "doc_number": "IDOC-2026-04823",
+  "last_name": "WILLIAMS",
+  "first_name": "ROBERT",
+  "document_count": 4,
+  "documents": [
+    {
+      "iris_document_id": "IRIS-88-39102",
+      "document_type": "SF_8466",
+      "document_title": "Abstract of Judgment",
+      "packet_section": "ADMISSION",
+      "document_date": "2026-08-05",
+      "page_count": 3,
+      "access_class": "RESTRICTED",
+      "body": "State of Indiana, Allen Superior Court 2. Cause number 02D02-2601-F3-004410. Defendant Robert T. Williams, date of birth 2 November 1979. Sentence: 3,650 days executed at the Department of Correction. Jail time credit: 212 days actual time served."
+    },
+    {
+      "iris_document_id": "IRIS-88-31877",
+      "document_type": "SF_INTAKE_SUMMARY",
+      "document_title": "Intake Summary, prior commitment",
+      "packet_section": "ADMISSION",
+      "document_date": "2019-04-11",
+      "page_count": 2,
+      "access_class": "RESTRICTED",
+      "body": "Intake summary completed at the reception facility on 11 April 2019 for a prior commitment. Identity verified against the court order. Property receipted. Medical screening completed and cleared for general population with a lower bunk restriction."
+    },
+    {
+      "iris_document_id": "IRIS-88-31904",
+      "document_type": "SF_CLASS_WORKSHEET",
+      "document_title": "Classification Worksheet, prior commitment",
+      "packet_section": "CLASSIFICATION",
+      "document_date": "2019-04-18",
+      "page_count": 1,
+      "access_class": "RESTRICTED",
+      "body": "Classification instrument scored on 18 April 2019. Assigned custody level: medium. No override applied. Reviewed by the classification supervisor."
+    },
+    {
+      "iris_document_id": "IRIS-88-40240",
+      "document_type": "SF_TRANSPORT_PACKET",
+      "document_title": "Sheriff Transport Packet",
+      "packet_section": "ADMISSION",
+      "document_date": "2026-08-13",
+      "page_count": 5,
+      "access_class": "RESTRICTED",
+      "body": "Allen County Sheriff transport packet. Mobility note: the individual uses a wheelchair and requires accessible housing. Medications in transport bag, sealed envelope, 3 items. One minor incident report during this booking, dated 18 June 2026. Property inventory: 7 items, receipt AC-PR-44021."
+    }
+  ]
+}
